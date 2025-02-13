@@ -104,7 +104,8 @@ Now, `file1hash` and `file2hash` contain the hash values.
 file1hash  file2hash
 ```
 
-*(Insert screenshot here)*  
+![File Hashing Lab Preview](https://i.imgur.com/xWtMEP4.png)
+  
 
 ### Step 2: Display Stored Hashes  
 I verify the saved hashes using:  
@@ -120,7 +121,8 @@ cat file2hash
 2558ba9a4cad1e69804ce03aa2a029526179a91a5e38cb723320e83af9ca017b  file2.txt
 ```
 
-*(Insert screenshot here)*  
+![File Hashing Lab Preview](https://i.imgur.com/QNxr0mT.png)
+ 
 
 ### Step 3: Compare Hashes  
 To confirm that the hashes are different, I use the `cmp` command:  
