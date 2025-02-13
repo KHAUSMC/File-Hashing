@@ -136,7 +136,8 @@ cmp file1hash file2hash
 file1hash file2hash differ: char 1, line 1
 ```
 
-*(Insert screenshot here)*  
+![File Hashing Lab Preview](https://i.imgur.com/ClGdC7d.png)
+
 
 This confirms that the files are different based on their hash values.  
 
